@@ -2,7 +2,7 @@ export const Bio = {
   name: "MOHAMMED KAIF",
   roles: ["Search Engine Optimist", "Digital Marketer"],
   description:
-    "I'm experience in SEO and digital marketing. I specialize in driving organic traffic growth, achieving top search engine rankings, and managing online reputation. I contributed to multiple successful projects, maintaining a positive brand image while boosting website visibility.",
+    "I'm experienced in SEO and digital marketing. I specialize in driving organic traffic growth, achieving top search engine rankings, and managing online reputation. I contributed to multiple successful projects, maintaining a positive brand image while boosting website visibility.",
   // github: "https://github.com/SanthoshS50",
   resume:
     "https://drive.google.com/file/d/1S_G5z4NdJsNynXczVRNy1es_8oP2ewOF/view",
@@ -174,12 +174,12 @@ export const education = [
 export const projects = [
   {
     id: 1,
-    title: "Revolution One",
+    title: "urbanrise.in",
     date: "Nov 2023",
     description:
-      "Implemented SEO-friendly website optimization, utilizing effective organic marketing strategies including keyword targeting, content optimization, mobile responsiveness, and local SEO. Additionally, curated engaging, and informative content tailored to target audience preferences, ensuring maximum user engagement and retention. Achieved 50+ valid leads with zero spend, resulting in 3-4 sales monthly, equivalent to ₹1 crore in sales per month.",
+      "Urbanrise Construction Private Limited is one of the top residential developers in south India previously called by Alliance Group. The Company's corporate website is currently ranking among the top 10 developers with keywords focused on - apartments in chennai, apartments for sale in omr, gated community apartments in OMR, flats for sale in chennai flats in omr.",
     image:
-      "https://github.com/SanthoshS50/frontend/raw/main/Readme_Images/Home.png",
+      "https://lh3.googleusercontent.com/fife/ALs6j_E0JWHfucawm5EE9qD9ApuUtfGgMSF_1aB7n_7w2bdEDIMMagiu2fDg5MqHgp5CLj5-kVFPWcwhkFLLS53DA_9owTWzWeynkCt5nhd9nK7Aj53lI8Y0tqDy2MZK8L6zT5vv2jd0czSPk6bhR7aOUuYcf6tEx99wXzESl5akstqIWevCqVvH4JQztKHmNzEsaUOOfck-QaClJGQc_YH4yHSwZIH7rl3jqsFsODUIz_NZY1ZPaQ9pRGmKlJS57QDldw8SozqvBu9aDS9bo5UV09EwJvuyoLBv7jz65aXStIUS05D1T-HOBG9zY-pMRIiuZ8N7sfPm2C3IzDsIJYIvQptrX2ZDcqBlHsaRkh6bzZs1P6qYrrblHlTYgI4G7RPo6foJ5faJmJaYlSvNkZ3IArZoiypmUMM-Awmq21LiCZQm8su0jLv8vRGdAB3Ab7YLPfD-PG-atLwCyTe2anldewAG2YAFj9UCdOT_DEg6UxPl9a_w03VZEseB8ct2frNpFcfkCugCHjek8Num2yJvTzBy1FPxU1EY_onsOnkIksJ-8CYtRiCdqgB-qyXHzTGq8C7YllW4iC0-KyeTblOHqOEeGZ7hmA8UA7LLPJht8BF7u-8fofq7KkAQJeJYLv3o2gC4ZuiPSOvtMuJJEDBRgsFKQGyUIRRtAq5ZYmrZE6tHmk4cGkRhdXTnWIZ5civ_HzU1lvG2HWczMVMZ5MgY130NmfYR0d0bsZoqc9ccvNEceWGXWYbv30GhZD30Qk7CCGt34atWy4uRv5VH1uxQ-MZ4tVLpSzkRXXL3-fisnFdGqcPq-jOhkzHhOI8RphhtaCqt3hdAgq_OMo_cfdztl5lqNlPIEjimTEdo0r9cJpMcYyGNLNLaMV08pXhcsQLPZnxWoU2gEjc21-mmSe54m9zgn1PAJFoDI4HGkRWtXGrLbxqhNZVFnmWVeb2QHiCVtnZC3dEh39-6O14boyRUKbTee0wE-ZZACAD7z0mwUKB8ix70BZnWhycsgnFGA4TMrhpROMKb_5mJ1Vm1WUiqV5Rc_zlTnBdeEK4I3ksxkx65hSmlT56sc844u_rI2FPViR-HLCtupBBL0SLsaDtCBXV7x_R8PCb74vFQvP5rD3gH8qZsMeZDYkTKO_LnUkqtKC38VlcR0RnBtN4AWrw0-GEYO78ZtE-EMQ4QnMFq60_hUJEup49SCZ40KMyG-sUYa4_aUhrj0rLcyHNSLC5Zhx18VUtl8pxS2idwIq5GQ_6wVseY6GHO9ANv6YKx7WPzL1iFJ4SS2r4D_UKiOYSe7SfReE6okZwIAEP8gFW1FCfvT6GygAftW7hdlB0aQgbqOv_jyKd4obdxhszkRPBKIdysPFaJ3YvpDsj7TDh_dJetZkSTeL5_v6jOWXtjHDAw_eV3SfcqCRvvRsvqJTv8NYXDe5gHDPoD0xxV09fwfcrimz6FRhHenVzcjoI7oAuuNKFm8UG_JYf9W5KTiKYMQ86Ys1XJa0djpYeLff7f0foNIzsi8Y82-EGy4puvPMqNYWNCb76VOK_36aHA60qP3gIVysd0wvn8-L0CYY8wA6czJPbkuHyEjAhhSyh_OypBu_J2bCoVtdQKWyCE75olVg=w1920-h922",
     tags: [
       "Apartments for sale in OMR",
       "Apartments in Padur",
@@ -187,56 +187,28 @@ export const projects = [
       "Flats for sale in Padur",
       "Gated community apartments in OMR",
     ],
-    category: "web app",
-    github: "https://github.com/SanthoshS50/frontend",
-    webapp: "https://revolutionone.in/",
+    webapp: "https://urbanrise.in/",
   },
   {
     id: 2,
-    title: "Find My Estate",
+    title: "revolutionone.in",
     date: "Feb 2024",
     description:
-      "Find My Estate is a web application developed using the MERN Stack. It provides users with a platform to search for real estate properties based on their preferences and criteria. The app offers features such as property listings, advanced search filters and user authentication. With a responsive and intuitive interface, users can easily browse, compare, and inquire about available properties.",
+      "Revolution One by Urbanrise in OMR, Chennai, focuses on luxury gated community apartments. Targeted keywords include gated community apartments in OMR and apartments for sale in OMR, Chennai, with strong rankings on search results. The website excels in on-page SEO with optimized title tags, meta descriptions, and header tags. Technical SEO aspects like mobile-friendliness and page speed are well-addressed. Rich content and regular updates enhance visibility and engagement.",
     image:
-      "https://github.com/SanthoshS50/Find_My_Estate/raw/main/Readme_Images/Home%20Page.png",
-    tags: [
-      "React Js",
-      "MongoDb",
-      "Node Js",
-      "Express Js",
-      "Redux",
-      "bcryptjs",
-      "dotenv",
-      "JWT",
-      "Tailwindcss",
-      "Firebase",
-    ],
-    category: "web app",
-    github: "https://github.com/SanthoshS50/Find_My_Estate",
-    webapp: "https://find-my-estate.onrender.com/",
+      "https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihbdhCVzk07NmhnJRZQx02nhInoxRx3AxkmcFd5O2vfxzrUflT-vD33U932m80btmHysAMQEWXgJeMEpxrv-auLgyWBRpkbU0Q=w1920-h922-rw-v1",
+    
+    webapp: "https://revolutionone.in/",
   },
   {
     id: 3,
-    title: "Techie's Blog",
+    title: "siruseriapartments.com",
     date: "March 2024",
     description:
-      "Techie's Blog is a MERN stack web application designed for tech enthusiasts to share insights, tutorials, and updates on the latest trends in the tech industry. It features user authentication for writers to create and manage their own blog posts, along with commenting and liking functionalities for community engagement. The app incorporates responsive design and intuitive navigation for seamless browsing across devices. With a focus on user-generated content, Techie's Blog fosters a vibrant community of tech enthusiasts exchanging knowledge and ideas. It also utilizes MongoDB for efficient data storage, Express.js for server-side logic, React.js for dynamic front-end development, and Node.js for backend functionality.",
+      "Siruseri Apartments focuses on real estate in Siruseri, providing valuable insights and locality information. Targeted keywords include apartments for sale in omr and apartments near Siruseri, with top rankings due to comprehensive content. The blog strategically links back to the main website, boosting its authority and generating leads. On-page SEO is strong with optimized titles and meta descriptions, while internal linking enhances navigation. The site is mobile-friendly and fast-loading, ensuring a positive user experience.",
     image:
-      "https://github.com/SanthoshS50/Techies_Blog/raw/main/Readme_Images/TB-Home.png",
-    tags: [
-      "React Js",
-      "MongoDb",
-      "Node Js",
-      "Express Js",
-      "Redux",
-      "bcryptjs",
-      "dotenv",
-      "JWT",
-      "Tailwindcss",
-      "Firebase",
-    ],
-    category: "web app",
-    github: "https://github.com/SanthoshS50/Techies_Blog",
-    webapp: "https://techies-blog.onrender.com/",
+      "https://lh3.googleusercontent.com/fife/ALs6j_GawkQM4Y3y1XS22YV2XSMsOC1OU2lG-D1zCsyHNPnO8sTsk0E1TGAYFHcHlh10b1MV_juWMdDY25FWnXixoojRPGaZ0Sm4ij7ZQchXHCX0At4vDHnv6bqu0t17ohKcQFrnk1upJxXdU4SaWchdvzUx_jPSBtrJIn3mCOfXbZBSELAeDOP3DkSJzeHnH0C8TeuyQncSJweU-sKUiOcdsPEBwNvq0n_Cyyka-Fr1tCyHhLG_zqhupB4T6UBKTIf-gLU3Y812kYcBpADHhToQpw4NyNwGTllUlcGbRvTkiWfGXMvhkatdBuzFXGn2ZIYBGftR-ak8kT-nFPjCxQKD9PPJaNgpJ-xEfrS_9fj0KbNXJXpZXVL9Dl8lIrivY_3om0Ad2czDsZYXkDIl7hV2A0pQNy0gpfEdHbp8mSyy89BSFS288I1GSHIYDA-MxUxHjCVwda5dZrrvgp9E4UyX8z4ep4QXovtYq9NhAhMCN0Yv3jVvaGC5Gj968CV4U_JP7KLeullk2K-uqTK24YXfZ4k7C5qFNfHoP-66WJPuNnviIbNYCcQTmkPZung8U2C2pw6SuZFQAiUUroup4uMlP4LXL9gx-4mUURt8r8UAw2VL0JrhOhI3wmDtOGvZLeGMq9eGsGrh1Iy4U8hcgMJa3HBdLhp8jvXvpQHeJhtan1LmuQUA3m3blT93Y63U_J7es4dAQgN1fXcUSEUUxAGTcwdnqBV1bRt5uxTBl_z4n8ysAM95IK0FDQj64zghhWIyeSi30z5BfWE5I1idny_gNqFofrQj_5TbOA1iaLg0c_4JAPyyNDqda5JxW60bZHF5JHVYuxPVKSlkwxfxHpZbR61LeSNCPwD-An61XHsEPWNy0n2WdxGubLgWdbJdsJHNRochjFF2HDqqAc75EjvvVPkNYQqb4SkVwuQqXInH4ourIvUVSdFLIdrcX1_zWExOKKbh7o-PJGeQGyOlPuaqeUEdn6QKybN18Ajvz4zDhz0lyaIgVsjbJCif777Cc0ExoJZDguPbrly0J1ewiJCmFN25NfzO1s11-4WWzu0a7pcDfs2eAH4U_hwMRgR_ZrXVgZ7hrmPc9nb5Na88w0zaND7XmnZjoq0g-nK_qyuzR91Df8V-qR_u3uAT-A4tjemcBMi-5vO-Zg2_PJActF4sn6HBtzQeiGHNv9gwe6ot-hdi4ZMMInhkCo7C-_dPCb_yKchHiUC48jF3-_Dx77hoG020cayshBQ0kkb76UyBGLikJ6bk49LEhb0jGeWhHykOVyZn2_WhoPpW-vEGrtrj6MOn1VAk-wz07stHZdTcidrhw9B3vSANOAmTRgR3S9nh_uF-WZRKkZDZuT1Vfz5S9mXRdBWRL1pJI8oEG6QXI1y-dLeD0uaWmAP2opTw7Nhrx2Y-ZDPBtMMp8sNajIHHuYYUsqDOyxNRdUthgN0M37mAguJV7kwbZF48baTbs-H4BqMwi4cLI0hqOsrbEXANlWZHHMtOegMX9iI_de6N6FlFRprqOAOZz6husqFBkjOV-A1Aylv-a2I3qLxCi-06Mz0o2CvrrAhI3Nd8hPCkoDZTqpc4a0AinhAu7Jq2NyeUnyLjmCzRa5vBqnrTrv4=w1920-h922",
+
+    webapp: "https://siruseriapartments.com/",
   },
 ];

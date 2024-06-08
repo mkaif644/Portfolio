@@ -201,11 +201,11 @@ const ProjectDetails = ({ openModal, setOpenModal }) => {
           <Image src={project?.image} />
           <Title>{project?.title}</Title>
           <Date>{project.date}</Date>
-          <Tags>
+          {/* <Tags>
             {project?.tags.map((tag) => (
               <Tag>{tag}</Tag>
             ))}
-          </Tags>
+          </Tags> */}
           <Desc>{project?.description}</Desc>
           {project.member && (
             <>
@@ -239,7 +239,7 @@ const ProjectDetails = ({ openModal, setOpenModal }) => {
               View Code
             </Button> */}
             <Button href={project?.webapp} target="new">
-              View Live App
+              View Site 
             </Button>
           </ButtonGroup>
         </Wrapper>

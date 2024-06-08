@@ -3,7 +3,7 @@ import styled from "styled-components";
 
 const Card = styled.div`
   width: 330px;
-  height: 490px;
+  height: 390px;
   background-color: ${({ theme }) => theme.card};
   cursor: pointer;
   border-radius: 10px;
@@ -107,11 +107,11 @@ const ProjectCard = ({ project, setOpenModal }) => {
   return (
     <Card onClick={() => setOpenModal({ state: true, project: project })}>
       <Image src={project.image} />
-      <Tags>
+      {/* <Tags>
         {project.tags?.map((tag, index) => (
           <Tag>{tag}</Tag>
         ))}
-      </Tags>
+      </Tags> */}
       <Details>
         <Title>{project.title}</Title>
         <Date>{project.date}</Date>
