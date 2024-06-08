@@ -1,5 +1,5 @@
 export const Bio = {
-  name: "MOHAMMED KAIF",
+  name: "MOHAMMED KAIFs",
   roles: ["Search Engine Optimist", "Digital Marketer"],
   description:
     "I'm experience in SEO and digital marketing. I specialize in driving organic traffic growth, achieving top search engine rankings, and managing online reputation. I contributed to multiple successful projects, maintaining a positive brand image while boosting website visibility.",
