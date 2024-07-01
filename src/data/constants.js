@@ -88,7 +88,7 @@ export const skills = [
     skills: [
       {
         name: "SE Ranking",
-        image: "https://drive.google.com/file/d/16iIx1QG1YcHdInSrcCBUVL8-nu76srxO/view?usp=sharing",
+        image: "https://drive.google.com/drive/u/0/folders/13AhCvNsEWlc_O1VCJ4rpACXoqylnZyDY",
       },
       {
         name: "SEMrush",
